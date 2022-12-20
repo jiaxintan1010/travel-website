@@ -14,6 +14,7 @@ View <a href="https://jiaxintan1010.github.io/travel-website/">here</a>
 <img src="./public/images/desktop-services.png" alt="desktop-services-img">
 <img src="./public/images/desktop-products.png" alt="desktop-products-img">
 <img src="./public/images/desktop-signup.png" alt="desktop-signup-img">
+<img src="./public/images/desktop-nopage.png" alt="desktop-nopage-img">
 
 <h2>Mobile View</h2>
 <img src="./public/images/mobile.png" alt="mobile-img">
