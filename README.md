@@ -17,3 +17,4 @@ View <a href="https://jiaxintan1010.github.io/travel-website/">here</a>
 
 <h2>Mobile View</h2>
 <img src="./public/images/mobile.png" alt="mobile-img">
+<img src="./public/images/mobile.png" alt="mobile-img">
