@@ -17,6 +17,10 @@ video {
     z-index: -1;
 }
 
+video::-webkit-media-controls {
+    display: none;
+}
+
 .cover-container>h1 {
     color: #fff;
     font-size: 6.25rem;
