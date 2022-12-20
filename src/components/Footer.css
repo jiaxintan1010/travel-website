@@ -1,0 +1,129 @@
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+    background-color: #242424;
+    color: #fff;
+}
+
+.footer-subscription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 2rem;
+}
+
+.footer-subscription>p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+        'Lucida Sans', Arial, sans-serif;
+}
+
+.footer-subscription-heading {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.footer-subscription-text {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.footer-input {
+    padding: 8px 20px;
+    margin-right: 1rem;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    border: 1px solid #fff;
+}
+
+.footer-input::placeholder {
+    color: #b1b1b1;
+}
+
+.footer-links {
+    display: flex;
+}
+
+.footer-link-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.footer-link-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 2.5rem;
+}
+
+.footer-link-items>h2 {
+    margin-bottom: 1rem;
+}
+
+.footer-link-items>a {
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+
+.footer-link-items a:hover {
+    color: #e9e9e9;
+    transition: 0.3s ease-out;
+}
+
+.social-media {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.social-media-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 2rem auto;
+}
+
+.social-logo,
+.social-icon-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.8rem;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 2rem;
+}
+
+@media screen and (max-width: 900px) {
+    .footer-form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-input {
+        width: 100%;
+        margin-bottom: 1.5rem;
+    }
+
+    .footer-link-wrapper {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social-media-wrap {
+        flex-direction: column;
+        row-gap: 1.5rem;
+    }
+}
