@@ -5,7 +5,7 @@ import "./Cover.css";
 function Cover() {
   return (
     <div className="cover-container">
-      <video src="videos/video-1.mp4" autoPlay loop muted></video>
+      <video src="/videos/video-1.mp4" autoPlay loop muted></video>
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for?</p>
       <div className="cover-btn-container">

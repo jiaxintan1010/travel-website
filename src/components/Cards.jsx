@@ -10,7 +10,7 @@ function Cards() {
         <div className="cards-items-container">
           <CardItem
             path="/services"
-            img="images/img-9.jpg"
+            img="/images/img-9.jpg"
             label="Adventure"
             text="Explore the hidden waterfall deep inside the Amazon Jungle"
           />

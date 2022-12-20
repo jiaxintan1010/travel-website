@@ -7,12 +7,13 @@
 </ul>
 
 <h2>Demo</h2>
-View <a href="https://jiaxintan1010.github.io/interior-consultant/">here</a>
+View <a href="https://jiaxintan1010.github.io/travel-website/">here</a>
 
 <h2>Desktop View</h2>
-<img src="./images/interior-consultant-desktop-view.png" alt="interior-consultant-desktop-view-img">
+<img src="./public/images/desktop-home.png" alt="desktop-home-img">
+<img src="./public/images/desktop-services.png" alt="desktop-services-img">
+<img src="./public/images/desktop-products.png" alt="desktop-products-img">
+<img src="./public/images/desktop-signup.png" alt="desktop-signup-img">
 
 <h2>Mobile View</h2>
-<img src="./images/interior-consultant-mobile-view.png" alt="interior-conusltant-mobile-view-img">
-<br>
-<img src="./images/interior-consultant-mobile-view-nav-overlay.png" alt="interior-conusltant-mobile-view-nav-overlay-img">
+<img src="./public/images/mobile.png" alt="mobile-img">
